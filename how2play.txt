@@ -1,0 +1,13 @@
+Objective: Kill the aliens and be victorious, take no prisoners.
+
+
+Controls:
+
+
+Left: left-arrow key
+Right: right-arrow key
+Fire Bullet: space bar
+
+Quick Quit: q
+
+Rest Game: p
