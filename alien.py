@@ -12,8 +12,8 @@ class Alien(Sprite):
         self.screen = screen
         self.ai_settings = ai_settings
 
-        # This loads the bmp alien image.
-        self.image = pygame.image.load('images/alien.bmp')
+        # This loads the bmp alien image. 
+        self.image = pygame.image.load('alien.bmp') # you can change this to pull from another folder
         self.rect = self.image.get_rect()
 
         # start each new alien near the top left of the screen
