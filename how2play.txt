@@ -1,5 +1,6 @@
 Objective: Kill the aliens and be victorious, take no prisoners.
 
+To start, run Alien Invasion.
 
 Controls:
 
